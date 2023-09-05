@@ -1,2 +1,2 @@
-# few_shot_learning
-learning few-shot learning and some of its algorithms.
+# Few-shot Learning
+Learning and experimenting with few-shot learning and some of its algorithms.
